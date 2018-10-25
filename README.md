@@ -1,0 +1,1 @@
+# vsto-installed-check
